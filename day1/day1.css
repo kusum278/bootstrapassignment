@@ -1,0 +1,31 @@
+.my-container{
+  height: 696px;
+  background-color: lightgray;
+}
+.block1{
+  background-color: red;
+  height: 150px;
+
+}
+.block2{
+  background-color: blue;
+  height: 150px;
+
+}
+.block3{
+  background-color: green;
+  height: 150px;
+
+}
+.row-1{
+  background-color: bisque;
+  height: 200px;
+}
+.row-2{
+  background-color: bisque;
+  height: 150px;
+}
+.row-3{
+  background-color: bisque;
+  height: 200px;
+}
